@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "string.h": "c",
+        "clock.h": "c",
+        "i2c.h": "c",
+        "stdlib.h": "c",
+        "gps.h": "c"
+    }
+}
